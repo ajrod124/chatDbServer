@@ -2,6 +2,9 @@
 
 ## Directions
 
+For use in conjunction with https://github.com/ajrod124/ChatProject.
+Currently set up to use in the Heroku environment.
+
 1. Clone repo
 2. Navigate to /chatDbServer
 3. Follow the directions here: https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app
